@@ -12,4 +12,4 @@ PHP7, jQuery 3.4.1, and the Stegify binary in the root folder. File uploads must
 
 ## Screenshot
 
-![Stegifty-Web](screen.png)
+![Stegifty-Web](https://nabasny.com/stegify/screen.png)
